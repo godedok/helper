@@ -56,10 +56,24 @@
   * [youtube](https://www.youtube.com/watch?v=O6ncD7ivewY)
 ### BD
 * PostgreSQL: Представления
+  * [postgrespro.ru](https://postgrespro.ru/docs/postgrespro/13/sql-createview)
+  * [postgrespro.ru](https://postgrespro.ru/docs/postgrespro/13/rules-views)
+  * [coderlessons.com](https://coderlessons.com/tutorials/bazy-dannykh/uchebnik-postgresql/19-postgresql-sozdat-predstavlenie)
 * PostgreSQL: Подзапросы
+  * [metanit.com](https://metanit.com/sql/postgresql/4.7.php)
+  * [postgrespro.ru](https://postgrespro.ru/docs/postgrespro/13/functions-subquery)
+  * [postgrespro.ru](https://postgrespro.ru/docs/postgresql/13/queries-with)
+  * [oracleplsql.ru](https://oracleplsql.ru/subqueries-postgresql.html)
+  * [coderlessons.com](https://coderlessons.com/tutorials/bazy-dannykh/vyuchit-postgresql/postgresql-podzaprosy)
 * PostgreSQL: Множественное добавление
+  * [postgrespro.ru](https://postgrespro.ru/docs/postgrespro/13/dml-insert)
+  * [habr](https://habr.com/ru/post/340460/)
+  * [habr](https://habr.com/ru/post/519788/)
 ### Frontend
 * JS: Замыкания
+  * [learn.javascript.ru](https://learn.javascript.ru/closure)
+  * [developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures)
+  * [medium.com](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)
 ### DevOps
 * *top, ps
 * iptables, netstat
