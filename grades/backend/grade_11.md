@@ -76,9 +76,23 @@
   * [medium.com](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-javascript-%D1%80%D0%B0%D0%B7-%D0%B8-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-c211805b6898)
 ### DevOps
 * *top, ps
+  * [wiki](https://ru.wikipedia.org/wiki/Top)
+  * [vps.ua](https://vps.ua/wiki/top-command/)
+  * [wiki](https://ru.wikipedia.org/wiki/Ps)
+  * [losst.ru](https://losst.ru/komanda-ps-v-linux)
+  * [1cloud.ru](https://1cloud.ru/help/security/ispolzovanie-komandy-ps-dlya-prosmotra-protsessov-linux)
 * iptables, netstat
+  * [wiki](https://ru.wikipedia.org/wiki/Iptables)
+  * [losst.ru](https://losst.ru/nastrojka-iptables-dlya-chajnikov)
+  * [wiki](https://ru.wikipedia.org/wiki/Netstat)
+  * [putty.org.ru](https://putty.org.ru/articles/netstat-linux-examples.html)
 ### Misc
 * Docker: оптимизация сборки
+  * [itsumma](https://www.itsumma.ru/knowledges/blog/docker_image)
+  * [habr](https://habr.com/ru/company/ruvds/blog/440658/)
+  * [ealebed.github.io](https://ealebed.github.io/posts/2017/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-docker-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2/)
+  * [8host.com](https://www.8host.com/blog/optimizaciya-obrazov-docker-dlya-proizvodstva/)
+  * [youtube.com](https://www.youtube.com/watch?v=XNy3HfjzwHo)
 ## Практический раздел 
 1. Реализовать аутентификацию с помощью JWT
 2. ООП в PHP: Использовать в разработке методы сериализации объектов
