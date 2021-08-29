@@ -15,13 +15,34 @@
   * [wiki](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 ### Language
 * ООП в PHP: Трейты
-  * 
+  * [php.net](https://www.php.net/manual/ru/language.oop5.traits.php)
+  * [hexlet](https://ru.hexlet.io/courses/php-classes/lessons/traits/theory_unit)
+  * [youtube](https://www.youtube.com/watch?v=HkvfyY_NeAQ)
 * PHP: Reflection API
+  * [php.net](https://www.php.net/manual/ru/book.reflection.php)
+  * [php.net](https://www.php.net/manual/ru/language.attributes.reflection.php)
+  * [php.net](https://www.php.net/manual/ru/language.attributes.reflection.php)
+  * [habr](https://habr.com/ru/post/433266/)
 * PHP: Управление транзакциями
+  * [php.net](https://www.php.net/manual/ru/pdo.transactions.php)
 ### Framework
 * Yii2: RBAC
+  * [yiiframework](https://www.yiiframework.com/doc/guide/2.0/ru/security-authorization)
+  * [elisdn](https://elisdn.ru/blog/87/seo-service-on-yii2-adding-rbac)
+  * [habr](https://habr.com/ru/post/235485/)
+  * [habr](https://habr.com/ru/post/327170/)
+  * [github](https://github.com/carono/yii2-rbac)
 * Yii2: Организация REST API
+  * [yiiframework](https://www.yiiframework.com/doc/guide/2.0/ru/rest-quick-start)
+  * [klisl.com](https://klisl.com/yii2-api-rest.html)
+  * [klisl.com](https://klisl.com/yii2-api-rest.html)
+  * [qna.habr.com](https://qna.habr.com/q/648200)
+  * [unetway](https://unetway.com/tutorial/yii-restful-web-services)
 * Yii2: Модули
+  * [yiiframework](https://yiiframework.com.ua/ru/doc/guide/2/structure-modules/)
+  * [webformyself.com](https://webformyself.com/yii2-moduli/)
+  * [klisl.com](https://klisl.com/statistics_module.html)
+  * [elisdn](https://elisdn.ru/blog/85/seo-service-on-yii2-reusing-of-modules)
 ### Testing
 * TDD
 ### Storage
