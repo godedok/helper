@@ -52,16 +52,32 @@
 ### Storage
 * Репликации
   * [highload](https://highload.today/replikatsiya-dannykh/)
-  * 
+  * [wikipedia](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0))
+  * [habr](https://habr.com/ru/post/514500/)
 ### BD
 * PostgreSQL: Запросы к information_schema
+  * [postgrespro](https://postgrespro.ru/docs/postgresql/13/information-schema)
+  * [tproger](https://tproger.ru/translations/useful-postgresql-commands/)
+  * [coderoad](https://coderoad.ru/2276644/%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5-%D0%B2%D1%81%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B2-postgresql-information_schema)
 * PostgreSQL: Статистика процессов
+  * [postgrespro](https://postgrespro.ru/docs/postgresql/13/monitoring-stats)
+  * [habr](https://habr.com/ru/company/pgdayrussia/blog/329542/)
+  * [habr](https://habr.com/ru/post/486710/)
 ### Frontend
 * JS: Classes
+  * [mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
+  * [javascript](https://learn.javascript.ru/es-class)
 ### DevOps
 * scp, ssh, rsync
+  * [rackspace](https://docs.rackspace.com/support/how-to/copy-files-with-scp-and-rsync/)
+  * [coderoad](https://coderoad.ru/20244585/%D0%A7%D0%B5%D0%BC-scp-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%BE%D1%82-rsync)
+  * [wikipedia](https://ru.wikipedia.org/wiki/SCP)
+  * [wikipedia](https://ru.wikipedia.org/wiki/SSH)
+  * [wikipedia](https://ru.wikipedia.org/wiki/Rsync)
 ### Misc
 * HTTPS, SSL
+  * [wikipedia](https://ru.wikipedia.org/wiki/HTTPS)
+  * [wikipedia](https://ru.wikipedia.org/wiki/SSL)
 ## Практический раздел
 1. ООП в PHP: Реализовать аналог множественного наследования
 2. PHP: Использовать в разработке Reflection API
