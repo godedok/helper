@@ -19,7 +19,6 @@
   * [ruseller.com](https://ruseller.com/lessons.php?id=1178&rub=37)
 * ООП в PHP: Магические методы
   * [php.net](https://www.php.net/manual/ru/language.oop5.magic.php)
-  * [rukoder.ru](https://rukoder.ru/view/4-korotko-oop-php-magicheskie-metody-magic-methods)
   * [habr](https://habr.com/ru/company/oleg-bunin/blog/478618/)
 * PHP: Паттерны проектирования: "декоратор"
   * [refactoring.guru](https://refactoring.guru/ru/design-patterns/decorator/php/example)
