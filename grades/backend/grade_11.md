@@ -13,12 +13,9 @@
 * Oauth
     * [wiki](https://ru.wikipedia.org/wiki/OAuth)
     * [habr](https://habr.com/ru/company/mailru/blog/115163/)
-    * [docs.microsoft](https://docs.microsoft.com/ru-ru/azure/active-directory/develop/v2-oauth2-auth-code-flow)
 ### Language
 * ООП в PHP: Сериализация объектов
   * [php.net](https://www.php.net/manual/ru/language.oop5.serialization.php)
-  * [youtube](https://www.youtube.com/watch?v=c8pR5sXs3k0)
-  * [php.ru](https://php.ru/manual/language.oop5.serialization.html)
   * [ruseller.com](https://ruseller.com/lessons.php?id=1178&rub=37)
 * ООП в PHP: Магические методы
   * [php.net](https://www.php.net/manual/ru/language.oop5.magic.php)
