@@ -22,9 +22,7 @@
   * [habr](https://habr.com/ru/company/oleg-bunin/blog/478618/)
 * PHP: Паттерны проектирования: "декоратор"
   * [refactoring.guru](https://refactoring.guru/ru/design-patterns/decorator/php/example)
-  * [youtube](https://www.youtube.com/watch?v=Lwb9bm8yKD0)
   * [youtube](https://www.youtube.com/watch?v=bjqr6YzdXMw)
-  * [youtube](https://www.youtube.com/watch?v=_3jwC-0_R2s)
 ### Framework
 * Yii2: Работа с БД - Active Record, связанные данные
   * [yiiframework](https://www.yiiframework.com/doc/guide/2.0/ru/db-active-record#relational-data)
