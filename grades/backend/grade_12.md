@@ -16,7 +16,6 @@
 * ООП в PHP: Трейты
   * [php.net](https://www.php.net/manual/ru/language.oop5.traits.php)
   * [hexlet](https://ru.hexlet.io/courses/php-classes/lessons/traits/theory_unit)
-  * [youtube](https://www.youtube.com/watch?v=HkvfyY_NeAQ)
 * PHP: Reflection API
   * [php.net](https://www.php.net/manual/ru/book.reflection.php)
   * [php.net](https://www.php.net/manual/ru/language.attributes.reflection.php)
