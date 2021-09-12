@@ -19,7 +19,6 @@
 * PHP: Reflection API
   * [php.net](https://www.php.net/manual/ru/book.reflection.php)
   * [php.net](https://www.php.net/manual/ru/language.attributes.reflection.php)
-  * [php.net](https://www.php.net/manual/ru/language.attributes.reflection.php)
   * [habr](https://habr.com/ru/post/433266/)
 * PHP: Управление транзакциями
   * [php.net](https://www.php.net/manual/ru/pdo.transactions.php)
