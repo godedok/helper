@@ -33,7 +33,6 @@
 * Реализация SOLID
   * [habr](https://habr.com/ru/post/499448/)
   * [habr](https://habr.com/ru/post/208442/)
-  * [3-info](https://3-info.ru/post/14027)
 ### Framework
 * Yii2: Примеры реализации паттернов проектирования
   * [github](https://github.com/he11d0g/DesignPatternsPHP)
