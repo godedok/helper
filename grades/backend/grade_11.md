@@ -51,7 +51,6 @@
 * PostgreSQL: Подзапросы
   * [metanit.com](https://metanit.com/sql/postgresql/4.7.php)
   * [postgrespro.ru](https://postgrespro.ru/docs/postgrespro/13/functions-subquery)
-  * [postgrespro.ru](https://postgrespro.ru/docs/postgresql/13/queries-with)
   * [oracleplsql.ru](https://oracleplsql.ru/subqueries-postgresql.html)
   * [coderlessons.com](https://coderlessons.com/tutorials/bazy-dannykh/vyuchit-postgresql/postgresql-podzaprosy)
 * PostgreSQL: Множественное добавление
